@@ -1,6 +1,6 @@
 import './App.css';
-import Header from './components/Header';
-import Main from './components/Main';
+import Header from './components/talentheader/Header';
+import Main from './components/talentheader/Main';
 import Section from './components/Section';
 import Job from './components/Job';
 import Industry from './components/Industry';
